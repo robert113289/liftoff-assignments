@@ -7,10 +7,12 @@ For this assignment you will need to upload your resume, and provide links to yo
 ## Submission Instructions
 
 ### GitHub
-Provide a link to your GitHub account here.
+[Github Profile](https://github.com/robert113289/)
+
 
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+[LinkedIn Profile](https://www.linkedin.com/in/robertkirkum//)
+
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo.
